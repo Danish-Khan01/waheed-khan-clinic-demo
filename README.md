@@ -12,6 +12,8 @@ Run `python3 -m http.server 4173` from this directory, then open http://localhos
 
 ## Demo features
 
+- Sky-blue light and dark themes, with a header toggle, remembered preference, and system-theme fallback.
+
 - Doctor dashboard with queue filters, search, consultation states and visit completion.
 - Booking with clinic hours, configurable slot duration, lunch breaks, blocked dates and double-booking prevention.
 - Patient records and chronological visit history.
